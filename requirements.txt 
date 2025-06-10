@@ -1,0 +1,7 @@
+selenium==4.16.0
+pandas==2.2.2
+openpyxl==3.1.2      
+xlrd==2.0.1          
+
+
+#this project is build using macos and python 3.10.12 and its perfectly working, if it's not working on windows then you need to install the following packages.
